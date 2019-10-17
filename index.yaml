@@ -8,7 +8,7 @@ entries:
     digest: 0c506f0bb58223dd4982a784b3df9b1eb332c8d9908226324d5785bd2cad3d80
     name: kafka-minion
     urls:
-    - kafka-minion-1.1.2.tgz
+    - https://github.com/loadaverage/kafka-minion-helm-chart/blob/master/kafka-minion-1.1.2.tgz
     version: 1.1.2
   - apiVersion: v1
     appVersion: "1.0"
@@ -17,7 +17,7 @@ entries:
     digest: 996950d9c1450b1147a9b42eac28cf7096147b85b402e36df57f95a385dc1ce0
     name: kafka-minion
     urls:
-    - kafka-minion-1.1.1.tgz
+    - https://github.com/loadaverage/kafka-minion-helm-chart/blob/master/kafka-minion-1.1.1.tgz
     version: 1.1.1
   - apiVersion: v1
     appVersion: "1.0"
@@ -26,7 +26,7 @@ entries:
     digest: 3bf5d0024d9cf8bc4049cbfdc2770e4d7955bde7eb59c883cae6698c1651102f
     name: kafka-minion
     urls:
-    - kafka-minion-1.1.0.tgz
+    - https://github.com/loadaverage/kafka-minion-helm-chart/blob/master/kafka-minion-1.1.0.tgz
     version: 1.1.0
   - apiVersion: v1
     appVersion: "1.0"
@@ -35,7 +35,7 @@ entries:
     digest: 781be432c2747c758fe004d563258481320a60059bee3ce7d4c36165e87e1c9e
     name: kafka-minion
     urls:
-    - kafka-minion-1.0.1.tgz
+    - https://github.com/loadaverage/kafka-minion-helm-chart/blob/master/kafka-minion-1.0.1.tgz
     version: 1.0.1
   - apiVersion: v1
     appVersion: "1.0"
@@ -44,6 +44,6 @@ entries:
     digest: 3bf3ee032461a3828a29d049836d94857b5619856bd770370a45f248a02a9b1c
     name: kafka-minion
     urls:
-    - kafka-minion-1.0.0.tgz
+    - https://github.com/loadaverage/kafka-minion-helm-chart/blob/master/kafka-minion-1.0.0.tgz
     version: 1.0.0
 generated: "2019-07-01T22:46:31.7715085+02:00"
